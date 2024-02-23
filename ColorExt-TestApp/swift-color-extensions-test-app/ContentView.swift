@@ -21,7 +21,7 @@ struct ContentView: View {
                     .font(.title)
                 Text("Hello, world!")
                     .foregroundColor(.white)
-                    .font(/*@START_MENU_TOKEN@*/.title/*@END_MENU_TOKEN@*/)
+                    .font(.title)
             }
             .padding()
         }

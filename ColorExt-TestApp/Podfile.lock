@@ -1,0 +1,16 @@
+PODS:
+  - ColorExt (0.0.1)
+
+DEPENDENCIES:
+  - ColorExt (from `../ColorExt`)
+
+EXTERNAL SOURCES:
+  ColorExt:
+    :path: "../ColorExt"
+
+SPEC CHECKSUMS:
+  ColorExt: 95cfabcf566991a8253c9ec541a1db7b16a01879
+
+PODFILE CHECKSUM: 731a0445e7efb48145316d360815207d1f047315
+
+COCOAPODS: 1.15.2
